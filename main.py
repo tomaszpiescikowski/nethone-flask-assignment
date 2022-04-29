@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify, make_response
 from helper import Datahelper
 import json
 
-app = Flask("__init__")
+app = Flask(__name__)
 
 # Domyślnie w roocie dostajemy wszystkie dane
 @app.route('/')
