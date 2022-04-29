@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Tomasz Piescikowski",
+        "age": 22
+    },
+    {
+        "id": "2",
+        "name": "Jan Kowalski",
+        "age": 12
+    },
+    {
+        "id": "3",
+        "name": "Cezary Polanski",
+        "age": 31
+    },
+    {
+        "id": "4",
+        "name": "Jacek Baranowski",
+        "age": 32
+    }
+]
